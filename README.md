@@ -1,2 +1,6 @@
 # IBM-Data-Science-Professional-Certificate
-Materials completed as a part of IBM Data Science Professional Certificate through Coursera
+
+Hi! This is a repository created to track course progress of IBM Data Science Professional Certificate through Coursera. 
+
+## Included Files
+- Tools for Data Science Final Assignment
